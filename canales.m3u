@@ -315,7 +315,7 @@ http://video3.earthcam.com/fecnetwork/hdtimes10.flv/.m3u8
 #EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="Cine", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="Deportes", Fight Time
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="DEPORTES", Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="http://fmhot.cl/wp-content/uploads/2014/08/logo1.png" group-title="Cine", FM Hot
@@ -350,7 +350,7 @@ http://liveingesta118.cdnmedia.tv/tvmexicolive/tvmex.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VHSjbEj.png" group-title="MEXICO", Milenio | SD
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="Deportes", MLB
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="DEPORTES", MLB
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", MTV Noruega
@@ -2058,43 +2058,43 @@ https://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="Informativos" tvg-name="Negocios TV",Negocios TV
 https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 
-#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte GEO
+#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="DEPORTES" tvg-name="Teledeporte",Teledeporte GEO
 https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
 
-#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte GEO
+#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="DEPORTES" tvg-name="Teledeporte",Teledeporte GEO
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
 
-#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Deportivos" tvg-name="Esport 3",Esport 3 GEO CAT
+#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="DEPORTES" tvg-name="Esport 3",Esport 3 GEO CAT
 https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8
 
-#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Deportivos" tvg-name="Esport 3",Esport 3 GEO
+#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="DEPORTES" tvg-name="Esport 3",Esport 3 GEO
 https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist_DVR.m3u8
 
-#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Deportivos" tvg-name="Esport 3",Esport 3
+#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="DEPORTES" tvg-name="Esport 3",Esport 3
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
 
-#EXTINF:-1 tvg-id="ETBD.TV" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="Deportivos" tvg-name="ETB Deportes",ETB Deportes
+#EXTINF:-1 tvg-id="ETBD.TV" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="DEPORTES" tvg-name="ETB Deportes",ETB Deportes
 https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="Deportivos" tvg-name="Aragón Deporte",Aragón Deporte
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="DEPORTES" tvg-name="Aragón Deporte",Aragón Deporte
 https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="Deportivos" tvg-name="Aragón Deporte",Aragón Deporte
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="DEPORTES" tvg-name="Aragón Deporte",Aragón Deporte
 https://hls-aragontv-events2.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="Deportivos" tvg-name="Aragón Deporte",Aragón Deporte
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="DEPORTES" tvg-name="Aragón Deporte",Aragón Deporte
 https://cartv.streaming.aranova.es/hls/live/adeportes_deporte3.m3u8
 
-#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadridTV7/picture?width=200&height=200" group-title="Deportivos" tvg-name="RealMadrid TV",RealMadrid TV
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadridTV7/picture?width=200&height=200" group-title="DEPORTES" tvg-name="RealMadrid TV",RealMadrid TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 
-#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadridTV7/picture?width=200&height=200" group-title="Deportivos" tvg-name="RealMadrid TV",RealMadrid TV EN
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadridTV7/picture?width=200&height=200" group-title="DEPORTES" tvg-name="RealMadrid TV",RealMadrid TV EN
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200" group-title="Deportivos" tvg-name="UD Las Palmas TV",UD Las Palmas TV
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200" group-title="DEPORTES" tvg-name="UD Las Palmas TV",UD Las Palmas TV
 https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200" group-title="Deportivos" tvg-name="Cádiz CF TV",Cádiz CF TV
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200" group-title="DEPORTES" tvg-name="Cádiz CF TV",Cádiz CF TV
 https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
@@ -3099,35 +3099,35 @@ https://tls.cdnz.cl/cachipuntv/live/chunklist_w72379467.m3u8
 https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8
 #EXTINF:-1 tvg-logo="https://rathergood.co.uk/wp-content/uploads/2019/11/Capture-260x180.png" group-title="Int. Otros" tvg-name="Rathergood LoL",Rathergood LoL EN
 https://streamingserver000.viewtvgroup.com/CLOUDIETV-RATHERGOODLOL-001/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Olympic Channel",Olympic Channel EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=200&height=200" group-title="DEPORTES Int." tvg-name="Olympic Channel",Olympic Channel EN
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Olympic Channel",Olympic Channel EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=200&height=200" group-title="DEPORTES Int." tvg-name="Olympic Channel",Olympic Channel EN
 https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Olympic Channel",Olympic Channel EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=200&height=200" group-title="DEPORTES Int." tvg-name="Olympic Channel",Olympic Channel EN
 https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Olympic Channel",Olympic Channel EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=200&height=200" group-title="DEPORTES Int." tvg-name="Olympic Channel",Olympic Channel EN
 https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Olympic Channel",Olympic Channel EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=200&height=200" group-title="DEPORTES Int." tvg-name="Olympic Channel",Olympic Channel EN
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Redbull TV",Redbull TV EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" group-title="DEPORTES Int." tvg-name="Redbull TV",Redbull TV EN
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg" group-title="Deportivos Int." tvg-name="Garage TV",Garage TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg" group-title="DEPORTES Int." tvg-name="Garage TV",Garage TV
 http://186.0.233.76:1935/Garage/garage.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/msmotortv/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="MsMotor TV",MsMotor TV IT
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/msmotortv/picture?width=200&height=200" group-title="DEPORTES Int." tvg-name="MsMotor TV",MsMotor TV IT
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/onlymotors/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="OnlyMotors",OnlyMotors EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/onlymotors/picture?width=200&height=200" group-title="DEPORTES Int." tvg-name="OnlyMotors",OnlyMotors EN
 https://streamingserver000.viewtvgroup.com/CLOUDIETV-ONLYMOTORSTV-001/index.m3u8
-#EXTINF:-1 tvg-id="HarleyM.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Harley Davidson TV",Harley Davidson TV EN
+#EXTINF:-1 tvg-id="HarleyM.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="DEPORTES Int." tvg-name="Harley Davidson TV",Harley Davidson TV EN
 https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
-#EXTINF:-1 tvg-id="HarleyR.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Harley Davidson Racing TV",Harley Davidson Racing TV EN
+#EXTINF:-1 tvg-id="HarleyR.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="DEPORTES Int." tvg-name="Harley Davidson Racing TV",Harley Davidson Racing TV EN
 https://hdtv.prod2.ioio.tv/broker/play/797c5c1c-160c-4c17-a149-e31a0467ab62.m3u8
-#EXTINF:-1 tvg-id="HarleyF.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Harley Davidson Factory TV",Harley Davidson Factory TV EN
+#EXTINF:-1 tvg-id="HarleyF.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="DEPORTES Int." tvg-name="Harley Davidson Factory TV",Harley Davidson Factory TV EN
 https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8
-#EXTINF:-1 tvg-id="HarleyG.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Harley Davidson Garage TV",Harley Davidson Garage TV EN
+#EXTINF:-1 tvg-id="HarleyG.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="DEPORTES Int." tvg-name="Harley Davidson Garage TV",Harley Davidson Garage TV EN
 https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Harley Davidson Rides TV",Harley Davidson Rides TV EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="DEPORTES Int." tvg-name="Harley Davidson Rides TV",Harley Davidson Rides TV EN
 https://hdtv.prod2.ioio.tv/broker/play/b8789d55-d110-4452-a578-3a206afa3972.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/motortrendIT/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="MotorTrend Italia",MotorTrend Italia IT
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/motortrendIT/picture?width=200&height=200" group-title="DEPORTES Int." tvg-name="MotorTrend Italia",MotorTrend Italia IT
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200" group-title="Religiosos" tvg-name="EWTN España",EWTN España
@@ -3156,7 +3156,7 @@ https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
 
 
 
-#EXTINF:-1 group-title="Deportes",Fight Time
+#EXTINF:-1 group-title="DEPORTES",Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 
 #EXTINF:-1 ,hbo2 dual (eng esp) www.achoapps.com
@@ -3165,7 +3165,7 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:-1 group-title="CINE",Fox Cinema www.achoapps.com
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
-#EXTINF:-1 group-title="Deportes",CDO Premium
+#EXTINF:-1 group-title="DEPORTES",CDO Premium
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE",HBO 2 www.achoapps.com
@@ -3251,24 +3251,24 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 ,EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 ,REAL MADRID TV HD
+#EXTINF:-1 group-title="DEPORTES",REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 
-#EXTINF:-1 ,REDBULL INGLES
+#EXTINF:-1 group-title="DEPORTES",REDBULL INGLES
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 
 
 
-#EXTINF:-1 ,DEPORTES:SKY News
+#EXTINF:-1 group-title="DEPORTES",DEPORTES:SKY News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 
-#EXTINF:-1 ,DEPORTES:BFM Sport
+#EXTINF:-1 group-title="DEPORTES",DEPORTES:BFM Sport
 http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
 
-#EXTINF:-1 ,DEPORTES:AD Sports 1 HD
+#EXTINF:-1 group-title="DEPORTES",DEPORTES:AD Sports 1 HD
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 
-#EXTINF:-1 ,DEPORTES:AD Sports 2 HD
+#EXTINF:-1 group-title="DEPORTES",DEPORTES:AD Sports 2 HD
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 
 #EXTINF:-1 ,MODA:HD Fashion
@@ -4766,7 +4766,7 @@ http://radios.argentina.fm:9270/stream
 #EXTINF:-1 ,QUIMBAYA ST
 http://195.154.133.107:8396/;
 
-#EXTINF:-1 ,ESPN ARG
+#EXTINF:-1 group-title="DEPORTES",ESPN ARG
 http://edge.espn.cdn.abacast.net/espn-deportesmp3-48
 
 
@@ -6320,3 +6320,186 @@ http://185.93.3.76:25461/live/149219444491279/227419925419977/414.m3u8?token=SEE
 
 #EXTINF:-1 group-title="DEPORTES",EUROSPORT 2 (SD)
 http://185.93.3.76:25461/live/149219444491279/227419925419977/459.m3u8?token=SEELUUAOGgMSBggEBAtWWlJTVVACAQcFA1pXVgNXAlFVB1YEAwMACQkSHUcVRxQGVwloDwAVW1JeVE4WR0UEQWwKBxIJRAAKCAQER0oREgpbARVcVBtDEQ8GQA4QAVgDBlJBHBEDQE1VQl8ECmwCBkANVANGDQ8UCg5OFl1YPldWDgJeV0QCGwESHUcPQBZBDApCCggbQwMPFhBVRlNDCRFSVAQGRBQbU19ECxJBH0EMRnI1RhtDBB4WB1pBXw5dEVlBXQATABscElgWOUEDEEIWUgcJUhNDXEBSFh4UDFJLPABfXQhdWkRZXgsVEVxBB0YbRAlYDwgSDRBrQl8FEQlBUgYDUA0bTQ==
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="50 Star Trek" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 50 Star Trek
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ec5761aabe4690007f6e047/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=9f22c9b7-8600-415d-9b9a-fb6dd0e54d4b&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="52 Cine Estelar" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 52 Cine Estelar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=f2c03fa6-1afa-4ede-bf97-406268e3a7d1&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="56 Cine Action" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 56 Cine Action
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=abdd34d3-6190-462d-bd1f-48aed69e4db2&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="57 Estrellas de Accion" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 57 Estrellas de Accion
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=f9e0d0ac-61fc-4579-a196-4660c4385888&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="60 Cine Comedia" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 60 Cine Comedia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=871d92d1-8cb2-423c-adea-0e42de7da74a&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="87 Cine Familia" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 87 Cine Familia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=9d7f9a45-a188-4a6e-b3dc-3a302d34def7&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="63 Cine Drama" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 63 Cine Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=95f84404-a1b8-41fa-95dd-e0982ba389f2&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="66 Cine Romance" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 66 Cine Romance
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=0cce3b2b-250d-47ed-b743-6b7404d5c83e&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="69 Cine Suspenso" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 69 Cine Suspenso
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=937004f2-907c-41f7-b953-92dd7a06c3d5&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="72 Cine Terror" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 72 Cine Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=eda73316-05a7-4995-a624-44822c714360&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="81 Cine" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 81 Cine
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=00fadf4b-cde1-4a5d-ab96-9295d310b30b&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="101 Series" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 101 Series
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/572723/playlist.m3u8?terminate=false&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceVersion=13.1.2&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Safari&sid=bd6a5809-c1b5-474a-baef-23c14e4bddc9&advertisingId=&deviceLat=-33.0081&deviceLon=-71.5197&deviceDNT=0&deviceModel=Safari&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 tvg-id="" tvg-name="104 Series Retro" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 104 Series Retro
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=d58eeaee-46d5-4edb-b70d-aca926769183&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="115 Series Latina" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 115 Series Latina
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=032e970e-6359-4c5c-8890-6886dfd37d95&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="124 Novelas" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 124 Novelas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/572723/playlist.m3u8?terminate=false&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceVersion=13.1.2&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Safari&sid=351206e2-123e-4703-99d7-31b78a2dd083&advertisingId=&deviceLat=-33.0081&deviceLon=-71.5197&deviceDNT=0&deviceModel=Safari&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 tvg-id="" tvg-name="149 Telefe Clasico" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 149 Telefe Clasico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=128fbcf4-4117-471c-9c90-95780410b922&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="157 MTV Classoc" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 157 MTV Classoc
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/572723/playlist.m3u8?terminate=false&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceVersion=13.1.2&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Safari&sid=36dd1f99-8f83-4e84-b52a-5111fbbe5b96&advertisingId=&deviceLat=-33.0081&deviceLon=-71.5197&deviceDNT=0&deviceModel=Safari&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 tvg-id="" tvg-name="179 Pluto TV Teen" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 179 Pluto TV Teen
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=1d2e744e-7c75-4309-b013-e8026747db00&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="180 Degrassi" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 180 Degrassi
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091f605d/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=50b3117d-c11d-480e-8d3c-0b33b517a2c1&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="182 Anime" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 182 Anime
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/572723/playlist.m3u8?terminate=false&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceVersion=13.1.2&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Safari&sid=4475d1fd-b481-48e5-a53b-5f01db39d963&advertisingId=&deviceLat=-33.0081&deviceLon=-71.5197&deviceDNT=0&deviceModel=Safari&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 tvg-id="" tvg-name="185 Pluto TV Anime Accion" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 185 Pluto TV Anime Accion
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=63433ce0-acfc-48e6-a71d-179aa69344c6&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="197 Pluto TV Competencias" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 197 Pluto TV Competencias
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=182ac35d-d364-4167-8155-3bb3e2380038&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="251 Pluto TV Reality" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 251 Pluto TV Reality
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=b8759936-8fa1-45ff-b341-dd4c5e9bd34e&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="254 Pluto TV Investiga" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 254 Pluto TV Investiga
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/572723/playlist.m3u8?terminate=false&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceVersion=13.1.2&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Safari&sid=93f38c0f-faf2-4f97-80b4-ad9fe1f8c10c&advertisingId=&deviceLat=-33.0081&deviceLon=-71.5197&deviceDNT=0&deviceModel=Safari&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 tvg-id="" tvg-name="271 Natureleza" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 271 Natureleza
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=11128c02-360f-461f-86dd-01609e56bb4a&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="273 Pluto TV Animales" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 273 Pluto TV Animales
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=84b951ee-e120-4d23-9297-3e4d3c9d421b&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="283 Velocidad" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 283 Velocidad
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=cebb874a-a240-40ee-86ce-eb965fc7df56&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="305 Los archivos del FBI" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 305 Los archivos del FBI
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=6d7a1f7e-018c-4e37-afab-755ea7070dd1&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="308 The new Detectives" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 308 The new Detectives
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=17f78885-49e5-4a84-9372-887487e47bd6&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="317 Minuto para Ganar" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 317 Minuto para Ganar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=0fd1891d-27e0-4dc5-9d45-7c2d22aad4bd&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="320 Masterchef Dove" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 320 Masterchef Dove
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/572723/playlist.m3u8?terminate=false&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceVersion=13.1.2&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Safari&sid=c6b710a4-7b0f-4ad3-863d-a8c50dc16cca&advertisingId=&deviceLat=-33.0081&deviceLon=-71.5197&deviceDNT=0&deviceModel=Safari&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 tvg-id="" tvg-name="402 Deportes" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 402 Deportes
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/572723/playlist.m3u8?terminate=false&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceVersion=13.1.2&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Safari&sid=52fc305c-0d0d-47d4-ab62-4f41e1ae8820&advertisingId=&deviceLat=-33.0081&deviceLon=-71.5197&deviceDNT=0&deviceModel=Safari&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 tvg-id="" tvg-name="405 Futbol para Fans" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 405 Futbol para Fans
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/572723/playlist.m3u8?terminate=false&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceVersion=13.1.2&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Safari&sid=97095490-fd4f-48d9-874e-16df05ad9ce7&advertisingId=&deviceLat=-33.0081&deviceLon=-71.5197&deviceDNT=0&deviceModel=Safari&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 tvg-id="" tvg-name="408 Pluto TV Peleas" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 408 Pluto TV Peleas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=6f052ac5-d3fd-42c4-aba4-6f827d9d1154&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="510 Comedy Central Stand up" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 510 Comedy Central Stand up
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8f8e7598841d0007bf35b3/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=881b5d23-a9cd-4c9a-9877-c3d06b7899fb&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="551 Viajes" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 551 Viajes
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=cac5c17d-687f-4115-8a38-0d86fb16bc92&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="554 Pluto TV Cocina" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 554 Pluto TV Cocina
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=f43d6ffa-3751-46d7-b116-9345d5c0a951&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="557 Pluto TV Hogar" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 557 Pluto TV Hogar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=61ea9a3c-ad56-4621-a6ef-9127e9131209&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="703 Junior" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 703 Junior
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=6a5a36e5-7abf-4eb2-81f6-2a8782b01881&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="706 Nick Jr Club" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 706 Nick Jr Club
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=72248580-7472-4c29-8390-ceecba3952c3&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="715 Babar" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 715 Babar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=8ec37817-644e-4af2-b347-1f86207a6df8&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="718 Rugrats Crecidos" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 718 Rugrats Crecidos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=77eecfd8-e31f-4f76-8c76-40f8cfe0d86a&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="721 Pluto TV Kids" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 721 Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=d4914a1d-7e84-4d3c-8c45-d8ec9a63252b&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="730 Nick Clasico" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 730 Nick Clasico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=cb454f6a-57fe-44d0-a643-47d6a877a025&userId=&serverSideAds=true
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://gfx.videobuster.de/archive/v/cwiIRYplRhEAbg_kzaC5YDAcz0lMkawqCUyRqglMkZpbWGZJTJGanBlZyUyRmIwZt3ZMmExYTRlYmTy6_AxZGKpNWNmZDFlLmpwZyZyPXfvOA/prometheus.jpg" group-title="PELICULAS",Prometeus 2012 HD
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/19pm1z4zr8if9gh/deadpool.jpg" group-title="PELICULAS",Deadpool
+https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/14/03/04/12/57/369750.jpg" group-title="PELICULAS", American Pie |
+https://bit.ly/2KS5ucG
+
+#EXTINF:-1 group-title="PELICULAS",JIGSAW VIII |
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg" group-title="PELICULAS", SAW VIII SUBTITULADO |
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg" group-title="PELICULAS", Guardianes de la Galaxia | ACHOAPPS.com
+https://goo.gl/sFaEVq
+
+#EXTINF:-1 tvg-logo="https://gfx.videobuster.de/archive/v/cwiIRYplRhEAbg_kzaC5YDAcz0lMkawqCUyRqglMkZpbWGZJTJGanBlZyUyRmIwZt3ZMmExYTRlYmTy6_AxZGKpNWNmZDFlLmpwZyZyPXfvOA/prometheus.jpg"  group-title="PELICULAS",Prometeus 2012 HD
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="PELICULAS",STRIPTEASE
+https://ia800803.us.archive.org/22/items/Cheverefans0032017.mkv/Cheverefans%200032017.mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/19pm1z4zr8if9gh/deadpool.jpg" group-title="PELICULAS",Deadpool
+https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/14/03/04/12/57/369750.jpg", American Pie |
+https://bit.ly/2KS5ucG
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-nFLhtyQDFR4/Vux-PnZCpZI/AAAAAAAAirU/F3mcY7HNSn067Zy3LkRDonZbjMMM3GxkQ/s00/Que_Culpa_Tiene_el_Ni%25C3%25B1o_Poster_JPosters.jpg" group-title="PELICULAS", Que Culpa Tiene el Nino |
+https://bit.ly/2wBG4x8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/cdn.cinepapaya.com/stat/img/static-cp/cine/movietranslation/3-idiotas-poster-1494884216.jpg?resize=692%2C1024&ssl=1" group-title="PELICULAS", 3 idiotas |
+http://srregio.xyz/regioflix/3idiotas
+
+#EXTINF:-1 tvg-logo="http://www.cailegdl.com/wp-content/uploads/2018/03/red_sparrow_poster.jpg" group-title="PELICULAS", Operacion Red Sparrow |
+http://regiotv.xyz/regioflix/redsparrow
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-0dx-Z5jsVyw/Ws5bDjzstgI/AAAAAAAAoq0/Cbhps_UNSJQN_dBN7i16qSUUuH2PWjiMQCLcBGAs/s1600/Anon_Poster_UK_JPosters.jpg" group-title="PELICULAS", Anon |
+http://srregio.xyz/regioflix/anon
+
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/592f3443db29d6c96a19b5dc/t/59f10287b7411c32b423485c/1508967068270/Samson.png" group-title="PELICULAS", Samson |
+http://srregio.xyz/regioflix/samson
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-C2P_LCyOn6Q/WjJGd2Z-JZI/AAAAAAAAaiU/RU9mzczQwWgHFqvl__LPSRH9gn5yYsW4ACLcBGAs/s1600/1517%2Btres%2Ba%2Bparis.jpg" group-title="PELICULAS", 15:17 Tren a Paris |
+http://srregio.xyz/regioflix/trenaparis
+
+#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg" group-title="PELICULAS", SAW VIII SUBTITULADO |
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+
+#EXTINF:-1 group-title="PELICULAS",LA BELLA DURMIENTE (CLASICA)
+http://bit.ly/LABELLAMOVIE
+
+#EXTINF:-1 group-title="PELICULAS",THE EVIL WITHIN (2017)
+http://bit.ly/EVILWITHIN_MOVIE
+
+#EXTINF:-1 group-title="PELICULAS",THE MINE (2017)
+http://bit.ly/THEMINE
+
+#EXTINF:-1 group-title="PELICULAS",SAHARA (2017)
+http://bit.ly/SAHARAMOVIE
+
+#EXTINF:-1 group-title="PELICULAS",Mascota Humana (2016)
+http://bit.ly/MASCOTAHUMANA
+
+#EXTINF:-1 group-title="PELICULAS",Sandy Wexler (2017)
+http://bit.ly/MRAQCSAND
+
+#EXTINF:-1 group-title="PELICULAS",Sand Castle (2017)
+http://bit.ly/MRAQCASTI
+
+#EXTINF:-1 group-title="PELICULAS",CHUCKY 1
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
+
+#EXTINF:-1 group-title="PELICULAS",CHUCKY 2
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
+
+#EXTINF:-1 group-title="PELICULAS",CHUCKY 3
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
+
+#EXTINF:-1 group-title="PELICULAS",LA NOVIA DE CHUCKY
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4

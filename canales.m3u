@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="PERU", AMERICA TV
+https://us-b4-p-e-xy7.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8?uid=O4gUd1MWSUeO6lb3lYq9nZ9smFu7Dsn7&sid=mxD9NrU12SV2vE6xY3t2pkCoxxrdoRQn&pid=U0mF8Twj59Hhp6ihD6ndlVuqCtyPiPY1&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&dnt=true&access_token=tOhAoBMGZ9MA0KIAzykyobn7p4a9AaVa4c6UlnK5pCMVfDpvYVB4gmvLxn44UW8NMEFGP6OFqol&es=us-b4-p-e-xy7.cdn.mdstrm.com&ote=1607298198921&ot=TVq5DmD9F-lq58tfpQpGbg&proto=https&pz=us
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Panamericana_TV_2014.svg/revision/latest/scale-to-width-down/340?cb=20200204001832&path-prefix=es" group-title="PERU", PANAM TV
 https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFhRucEFpEFFUFdg702IAFbw)/dm/3/x774s7s/s/live-2.m3u8
 

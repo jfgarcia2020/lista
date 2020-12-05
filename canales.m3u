@@ -109,7 +109,75 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-id="80324" tvg-name="TV Peru Noticias" tvg-logo="https://lh3.googleusercontent.com/-KD-fsTkMuGk/XoKOALALblI/AAAAAAAAxWc/5phOwY1GlmwfZ4jq32uVem2PZRDigWSCACK8BGAsYHg/s0/2020-03-30.png" group-title="PERU", TV Peru Noticias
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eqpww5i.png" group-title="PERU", Turbo Mix Radio TV | SD
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU", Central TV | SD
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiImwkf.png" group-title="PERU", Mega TV Arequipa | SD
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://logowow.net/logos/thumb-fDocFft2r.png" group-title="PERU",Canal RPP
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zowFrNEOpTo/WI4N-4cC1HI/AAAAAAAAEd4/GFCFneNSFgQ4zF77gcE0myrnqlj78PbtACLcB/s1600/CTC%2BHD.png" group-title="PERU",CTC TV Cusco
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/500px-Sol_tv_pe.png" group-title="PERU",Sol TV
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="PERU",Tv Peru
+https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" ggroup-title="PERU" tvg-name="TV Perú",TV Perú
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="PERU" tvg-name="TV Perú Noticias",TV Perú Noticias
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 group-title="PERU",WILLAX TV PERU
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="PERU",WILLAX TV PERU
+http://m.mediastream.pe/vv_willax/livestream/.m3u8
+
+#EXTINF:-1 group-title="PERU",WILLAX TV PERU
+http://m.mediastream.pe/vv_willax/livestream/.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 group-title="PERU",PERU:Willax
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 group-title="PERU",PERU:Antares TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 group-title="PERU",PERU:Ovacion
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="PERU",TV Peru
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0003&mode=12
+
+
+#EXTINF:-1 group-title="PERU",TV PERu (Lima – Peru) (Game Snake Land S. y L.)
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 group-title="PERU",TV PERu (Lima – Peru) (Game Snake Land S. y L.)
+https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+
+#EXTINF:-1 group-title="PERU",PERU:BHtv (Opt-1)
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 group-title="PERU",PERU:BHtv (Opt-2)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 group-title="PERU",PERU:Radio San Borja 91.1 FM Lima
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+
+#EXTINF:-1 group-title="PERU",Central TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/13max.png" group-title="Entretenimiento", 13 MAX (Argentina)
@@ -199,8 +267,7 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cbtv_m.png" group-title="Entretenimiento", CBTV
 http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU", Central TV | SD
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional", CGTN ES
 http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -268,8 +335,7 @@ http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HN9mYDP.png" group-title="CHILE", MEGA | HD
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FiImwkf.png" group-title="PERU", Mega TV Arequipa | SD
-http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/27274/logo_melody%20channel1.png" group-title="Musica", Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
@@ -412,8 +478,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/trt.png" group-title="Internacional", TRT World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eqpww5i.png" group-title="PERU", Turbo Mix Radio TV | SD
-http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VkhYiMT.png" group-title="HONDURAS", TV Azteca Honduras | SD
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
@@ -488,8 +553,7 @@ http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
 #EXTINF:1,CANAL 8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://logowow.net/logos/thumb-fDocFft2r.png" group-title="PERU",Canal RPP
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8?iptvgratis?chile.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Y9BkR86cEgMjBCHqPjBXdW7D_Lw5hmw5nkURoCh6bLqjAiD57JnmqwGS6FfVQNiytWk=h310" group-title="ECUADOR",Centro Ecuador
 http://unsecure.streann.com/loadbalancer/services/public/channels/57cef28b2cdc6843385b86ce/playlist.m3u8
@@ -503,8 +567,6 @@ http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1,CRIMEN E INVESTIGACION
 http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zowFrNEOpTo/WI4N-4cC1HI/AAAAAAAAEd4/GFCFneNSFgQ4zF77gcE0myrnqlj78PbtACLcB/s1600/CTC%2BHD.png" group-title="PERU",CTC TV Cusco
-http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.luperondigital.com/wp-content/uploads/2017/01/digital-15-vivo-Canales-Dominicanos.jpg" group-title="DOMINICAN REP",Digital 15
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
@@ -539,8 +601,6 @@ http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8yYq2Yd.jpg" group-title="DOMINICAN REP",Naranja TV
 http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/500px-Sol_tv_pe.png" group-title="PERU",Sol TV
-http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2018/06/logo-latele-2016-2-1-3.png" group-title="URUGUAY",TeleDoce
 http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
@@ -578,8 +638,7 @@ http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/XNF7iTqRwBE/hqdefault.jpg" group-title="BRAZIL",TV MCJ
 http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="PERU",Tv Peru
-https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
+
 
 #EXTINF:-1  tvg-logo="http://www.tvriopreto.com.br/home/wp-content/uploads/TVN-2.png" group-title="BRAZIL",TV Rio Preto
 http://186.227.165.118:1935/insatv/livestream/live.m3u8
@@ -2956,10 +3015,7 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/atvmasnoticias/picture?width=200&height=200" group-title="Int. América" tvg-name="ATV+ Perú",ATV+ Perú
 https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="Int. América" tvg-name="TV Perú",TV Perú
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="Int. América" tvg-name="TV Perú Noticias",TV Perú Noticias
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal IPe Perú",Canal IPe Perú
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-id="TeleSUR.TV" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200" group-title="Int. América" tvg-name="TeleSUR Venezuela",TeleSUR Venezuela
@@ -3321,14 +3377,7 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
 #EXTINF:-1 ,TELEMAX ARG
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-1 ,WILLAX TV PERU
-http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
 
-#EXTINF:-1 ,WILLAX TV PERU
-http://m.mediastream.pe/vv_willax/livestream/.m3u8
-
-#EXTINF:-1 ,WILLAX TV PERU
-http://m.mediastream.pe/vv_willax/livestream/.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1 ,GARAGE TV AUTOS
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
@@ -3414,11 +3463,7 @@ http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:-1 ,COLOMBIA:Canal Capital HD
 http://us-b2-p-e-sx6.cdn.mdstrm.com/live-stream/57d01d6c28b263eb73b59a5a/publish/media_500.m3u8?dnt=true&es=us-b2-p-e-sx6.cdn.mdstrm.com&ote=1506105524968&ot=PhcZX6iEf6naqlTvLiSrJA&proto=http
 
-#EXTINF:-1 ,PERU:Willax
-http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 ,PERU:Antares TV
-http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 
 #EXTINF:-1 ,MEXICO:Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
@@ -4062,8 +4107,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0002
 #EXTINF:-1 ,Holvoet
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 ,PERU:Ovacion
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
 
 #EXTINF:-1 ,CAMPUS
 http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
@@ -4413,8 +4457,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
 #EXTINF:-1 ,TV Noticias 7.3
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 
-#EXTINF:-1 ,TV Peru
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0003&mode=12
 
 #EXTINF:-1 ,Teleceiba Canal 7
 http://190.11.224.14:8134/liveevent.m3u8
@@ -4896,11 +4938,6 @@ http://195.154.133.107:8396/;
 #EXTINF:-1 ,ESPN ARG
 http://edge.espn.cdn.abacast.net/espn-deportesmp3-48
 
-#EXTINF:-1 ,TV PERu (Lima – Peru) (Game Snake Land S. y L.)
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-
-#EXTINF:-1 ,TV PERu (Lima – Peru) (Game Snake Land S. y L.)
-https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 ,TELEENVIGADO (Envigado Colombia) (Game Snake Land S. y L.)
 http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
@@ -5211,14 +5248,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0151
 #EXTINF:-1 ,ARGENTINA:13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 
-#EXTINF:-1 ,PERU:BHtv (Opt-1)
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
-#EXTINF:-1 ,PERU:BHtv (Opt-2)
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
-#EXTINF:-1 ,PERU:Radio San Borja 91.1 FM Lima
-https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
 
 #EXTINF:-1 group-title="PELICULAS",Sandy Wexler (2017)
 http://bit.ly/2wVc9yV
@@ -5337,8 +5366,7 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="ESPAÑA",Vega Baja TV
 http://185.29.68.24/tvb.m3u8
 
-#EXTINF:-1 group-title="PERU",Central TV
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="COSTA RICA",Radio 88 Stereo
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8

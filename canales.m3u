@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="PERU", DIRECTV SPORTS
+https://e2.stephn.xyz/ingest013/67118.m3u8?sf=UkxmY0lVaHNBRA==&token=xvVbu3Q3qqPln8uUdILJng&expires=1607224518&rnd=
+
 #EXTINF:-1 tvg-id="109808" tvg-name="Vision TV" tvg-logo="https://lh3.googleusercontent.com/-qSajgX0bucY/Xz8opUTK86I/AAAAAAAA4ts/S5qSak8GG0gGqZSx3hC5cRPMH7RV_KW_ACK8BGAsYHg/s0/2020-08-20.png" group-title="PERU", Vision TV
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
 

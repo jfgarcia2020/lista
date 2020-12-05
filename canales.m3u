@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="PERU", DIRECTV SPORTS
-https://e2.stephn.xyz/ingest013/67118.m3u8?sf=UkxmY0lVaHNBRA==&token=xvVbu3Q3qqPln8uUdILJng&expires=1607224518&rnd=
+#EXTINF:-1 tvg-id="02" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandemia.org%2Fasi-es-la-nueva-imagen-de-latina-uno-de-los-principales-canales-peruanos&psig=AOvVaw2q-CjXJ8rynLc-G-wf6mmu&ust=1607297218049000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiv-_D-t-0CFQAAAAAdAAAAABAD" group-title="PERU", LATINA
+https://live-normal-movistar-hls.latina.pe/egress/bhandler/cialatina/live/media_b950272_200901315.ts?nva=1614985377&ttl=432000&ip=181.66.169.97&hash=0c8925be55183848e5c31
 
 #EXTINF:-1 tvg-id="109808" tvg-name="Vision TV" tvg-logo="https://lh3.googleusercontent.com/-qSajgX0bucY/Xz8opUTK86I/AAAAAAAA4ts/S5qSak8GG0gGqZSx3hC5cRPMH7RV_KW_ACK8BGAsYHg/s0/2020-08-20.png" group-title="PERU", Vision TV
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL

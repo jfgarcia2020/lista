@@ -5286,61 +5286,61 @@ http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 #EXTINF:-1 ,USA:Cooking Channel
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 
-#EXTINF:-1 ,Sports Channels:ESPN 2
+#EXTINF:-1 group-title="DEPORTES",ESPN 2
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
-#EXTINF:-1 ,USA:Movee 4U
+#EXTINF:-1 group-title="USA",Movee 4U
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 
-#EXTINF:-1 ,USA:Newsy
+#EXTINF:-1 group-title="USA",Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 
-#EXTINF:-1 ,USA:Spydar TV (Opt-1)
+#EXTINF:-1 group-title="USA",Spydar TV (Opt-1)
 https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
 
-#EXTINF:-1 ,USA:Western 4U
+#EXTINF:-1 group-title="USA",Western 4U
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 
-#EXTINF:-1 ,USA LOCAL:News 12 (Long Island - Traffic)
+#EXTINF:-1 group-title="USA",News 12 (Long Island - Traffic)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
 
-#EXTINF:-1 ,USA LOCAL:News 12 (Connecticut)
+#EXTINF:-1 group-title="USA",News 12 (Connecticut)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST
 
-#EXTINF:-1 ,USA LOCAL:News 12 (Connecticut - Traffic)
+#EXTINF:-1 group-title="USA",News 12 (Connecticut - Traffic)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
 
-#EXTINF:-1 ,USA LOCAL:News 12 (New York City - Traffic)
+#EXTINF:-1 group-title="USA",News 12 (New York City - Traffic)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC
 
-#EXTINF:-1 ,USA LOCAL:News 12 (New Jersey - Traffic)
+#EXTINF:-1 group-title="USA",News 12 (New Jersey - Traffic)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
 
-#EXTINF:-1 ,CANADA:CPAC
+#EXTINF:-1 group-title="CANADA",CPAC
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 
-#EXTINF:-1 ,CANADA:CPAC Francais
+#EXTINF:-1 group-title="CANADA",Francais
 http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
 
-#EXTINF:-1 ,SPAIN:Canal Parlamento
+#EXTINF:-1 group-title="ESPAÑA",Canal Parlamento
 http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
 
-#EXTINF:-1 ,SPAIN:Navarra TV (Opt-2)
+#EXTINF:-1 group-title="ESPAÑA",Navarra TV (Opt-2)
 http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 
-#EXTINF:-1 ,SPAIN:TV Galicia America
+#EXTINF:-1 group-title="ESPAÑA",TV Galicia America
 http://america-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 ,SPAIN:TV Galicia Europa
+#EXTINF:-1 group-title="ESPAÑA",TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 ,SPAIN:Vega Baja TV
+#EXTINF:-1 group-title="ESPAÑA",Vega Baja TV
 http://185.29.68.24/tvb.m3u8
 
-#EXTINF:-1 ,PERU:Central TV
+#EXTINF:-1 group-title="PERU",Central TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
-#EXTINF:-1 ,COSTA RICA:Radio 88 Stereo
+#EXTINF:-1 group-title="COSTA RICA",Radio 88 Stereo
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
 
 #EXTINF:-1 group-title="MODA",HD Fashion
@@ -5415,22 +5415,22 @@ http://worcester.vod.castus.tv/live/ch1.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="CANADA",CBC Television
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 group-title="UK",France 24 English (Opt-2)
+#EXTINF:-1 group-title="Reino Unido",France 24 English (Opt-2)
 http://161.0.157.9/PLTV/88888888/224/3221226821/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 group-title="UK",QVC
+#EXTINF:-1 group-title="Reino Unido",QVC
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 group-title="UK",QVC UK +1
+#EXTINF:-1 group-title="Reino Unido",QVC UK +1
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
 
-#EXTINF:-1 group-title="UK",QVC Beauty
+#EXTINF:-1 group-title="Reino Unido",QVC Beauty
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 group-title="UK",QVC Style
+#EXTINF:-1 group-title="Reino Unido",QVC Style
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 group-title="UK",QVC Extra
+#EXTINF:-1 group-title="Reino Unido",QVC Extra
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA",Bloomberg TV
@@ -5439,79 +5439,79 @@ https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
 #EXTINF:-1 group-title="ST KITTS",ZIZ
 http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
 
-#EXTINF:-1 group-title="GERMANY",BR Nord
+#EXTINF:-1 group-title="ALEMANIA",BR Nord
 http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
 
-#EXTINF:-1 group-title="GERMANY",BR Sued
+#EXTINF:-1 group-title="ALEMANIA",BR Sued
 http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
 
-#EXTINF:-1 group-title="GERMANY",Das Erste Int'l
+#EXTINF:-1 group-title="ALEMANIA",Das Erste Int'l
 http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
 
-#EXTINF:-1 group-title="GERMANY",Deutsches Musik Fernsehen
+#EXTINF:-1 group-title="ALEMANIA",Deutsches Musik Fernsehen
 http://tv.artcom-venture.de:1322/dmf/tv.m3u8
 
 #EXTINF:-1 group-title="AUSTRIA",Oe24
 http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="BELGIUM",Radio Contact 102.2 FM Brussels
+#EXTINF:-1 group-title="BELGICA",Radio Contact 102.2 FM Brussels
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 
-#EXTINF:-1 group-title="FRANCE",DJing Animation
+#EXTINF:-1 group-title="FRANCIA",DJing Animation
 https://www.djing.com/tv/animation.m3u8
 
-#EXTINF:-1 group-title="FRANCE",DJing Classics
+#EXTINF:-1 group-title="FRANCIA",DJing Classics
 https://www.djing.com/tv/classics.m3u8
 
-#EXTINF:-1 group-title="FRANCE",DJing Dancefloor
+#EXTINF:-1 group-title="FRANCIA",DJing Dancefloor
 https://www.djing.com/tv/dancefloor.m3u8
 
-#EXTINF:-1 group-title="FRANCE",DJing Hot Hot Hot
+#EXTINF:-1 group-title="FRANCIA",DJing Hot Hot Hot
 http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
 
-#EXTINF:-1 group-title="FRANCE",DJing Live
+#EXTINF:-1 group-title="FRANCIA",DJing Live
 https://www.djing.com/tv/live.m3u8
 
-#EXTINF:-1 group-title="FRANCE",DJing Underground
+#EXTINF:-1 group-title="FRANCIA",DJing Underground
 https://www.djing.com/tv/underground.m3u8
 
-#EXTINF:-1 group-title="FRANCE",France 24 (Opt-1)
+#EXTINF:-1 group-title="FRANCIA",France 24 (Opt-1)
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 
 #EXTINF:-1 group-title="HAITI",Radio TeleBoston (USA)
 http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
 
-#EXTINF:-1 group-title="ITALY",Super J TV
+#EXTINF:-1 group-title="ITALIA",Super J TV
 http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
 
-#EXTINF:-1 group-title="ITALY",Teleabruzzo TV
+#EXTINF:-1 group-title="ITALIA",Teleabruzzo TV
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 
-#EXTINF:-1 group-title="ITALY",Telefoggia
+#EXTINF:-1 group-title="ITALIA",Telefoggia
 http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
 
-#EXTINF:-1 group-title="ITALY",Telefriuli
+#EXTINF:-1 group-title="ITALIA",Telefriuli
 http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
 
-#EXTINF:-1 group-title="ITALY",Telemonteve 3
+#EXTINF:-1 group-title="ITALIA",Telemonteve 3
 http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
 
-#EXTINF:-1 group-title="ITALY",Teleromagna
+#EXTINF:-1 group-title="ITALIA",Teleromagna
 http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 
-#EXTINF:-1 group-title="ITALY",Teleromagna Mia
+#EXTINF:-1 group-title="ITALIA",Teleromagna Mia
 http://livetr.teleromagna.it/mia/live/playlist.m3u8
 
-#EXTINF:-1 group-title="BRAZIL",SBT Piaui
+#EXTINF:-1 group-title="BRASIL",SBT Piaui
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 
-#EXTINF:-1 group-title="BRAZIL",TV INES
+#EXTINF:-1 group-title="BRASIL",TV INES
 http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8
 
-#EXTINF:-1 group-title="SPAIN",TVG Xabarin
+#EXTINF:-1 group-title="ESPAÑA",TVG Xabarin
 http://infantil-crtvg.flumotion.com/chunks.m3u8
 
-#EXTINF:-1 group-title="MEXICO",Canal Once Nacional
+#EXTINF:-1 group-title="ESPAÑA",Canal Once Nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA",Cadena Sudeste TV
@@ -5634,74 +5634,57 @@ http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-ak
 #EXTINF:-1 ,Canal 4 Tenerife
 https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
 
-#EXTINF:-1 ,SPAIN:(ONLINE) Emporda TV
+#EXTINF:-1 group-title="ESPAÑA", SPAIN:(ONLINE) Emporda TV
 http://ventdelnord.tv:8080/escala/directe.m3u8
 
-#EXTINF:-1 ,Retro Tv
+#EXTINF:-1 group-title="MUSICA" ,Retro Tv
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
 
-#EXTINF:-1 ,M2o Tv
+#EXTINF:-1 group-title="ITALIA", M2o Tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
 
-#EXTINF:-1 ,Nacional:Televisión Rionegrina
+#EXTINF:-1 group-title="ARGENTINA", Televisión Rionegrina
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
-#EXTINF:-1 ,DOMINICANA:CANAL 5
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
-
-#EXTINF:-1 ,TV CAMPECHE
+#EXTINF:-1 group-title="MEXICO", TV CAMPECHE
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 
-#EXTINF:-1 ,TELEMAR CAMPECHE
-http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
-
-#EXTINF:-1 ,CANAL CAPITAL
-http://us-b2-p-e-sx6.cdn.mdstrm.com/live-stream/57d01d6c28b263eb73b59a5a/publish/media_500.m3u8?dnt=true&es=us-b2-p-e-sx6.cdn.mdstrm.com&ote=1506105524968&ot=PhcZX6iEf6naqlTvLiSrJA&proto=http
-
-#EXTINF:-1 ,CANAL DIPUTADOS
+#EXTINF:-1 group-title="CHILE", CANAL DIPUTADOS
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 
-#EXTINF:-1 ,MEXICO:RCG 3 Saltillo
+#EXTINF:-1 group-title="MEXICO", Saltillo
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
-#EXTINF:-1 ,BRAZIL:E-Parana
+#EXTINF:-1 group-title="BRASIL", E-Parana
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:-1 ,BRAZIL:TV MCJ
+#EXTINF:-1 group-title="BRASIL", BTV MCJ
 http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
 
-#EXTINF:-1 ,MEXICO:RCG 1 Saltillo
+#EXTINF:-1 group-title="MEXICO", Saltillo
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 
-#EXTINF:-1 ,ARGENTINA:America HD
+#EXTINF:-1 group-title="ARGENTINA", America HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 ,Del Aire
+#EXTINF:-1 group-title="ARGENTINA", Del Aire
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
 
-#EXTINF:-1 ,AR:LU82 Canal 10 - 43.1TV - Mar del Plata TV - BA Buenos Aires
+#EXTINF:-1 group-title="ARGENTINA", Mar del Plata TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
 
-#EXTINF:-1 ,Latinos:TLX
+#EXTINF:-1 group-title="MEXICO", Latinos:TELEMAX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Latinos.m3u8
 
-#EXTINF:-1 ,PortalFoxMix Tv
+#EXTINF:-1 group-title="Musica", PortalFoxMix Tv
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
 
-#EXTINF:-1 group-title="MOVIES",Prometeus 2012 HD
+#EXTINF:-1 group-title="PELICULAS", Prometeus 2012 HD
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 
-#EXTINF:-1 group-title="MOVIES",Deadpool
+#EXTINF:-1 group-title="PELICULAS", Deadpool
 https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
 
-#EXTINF:-1 ,SAW VIII SUBTITULADO |
-https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
-
-#EXTINF:-1 ,Guardianes de la Galaxia | SRREGIO.NET
-https://goo.gl/sFaEVq
-
-#EXTINF:-1 ,Chileiptv:La Pintana TV
-http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
 
 #EXTINF:-1 ,Chileiptv:Genial Tv
 http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8

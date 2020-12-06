@@ -33,7 +33,7 @@ http://m.mediastream.pe/vv_willax/livestream/.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 group-title="PERU",PERU:Willax
 http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 group-title="PERU",IPE TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/IPe_2019.svg/revision/latest/scale-to-width-down/340?cb=20200107225833&path-prefix=es" group-title="PERU",IPE TV  
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-id="109808" tvg-name="Vision TV" tvg-logo="https://lh3.googleusercontent.com/-qSajgX0bucY/Xz8opUTK86I/AAAAAAAA4ts/S5qSak8GG0gGqZSx3hC5cRPMH7RV_KW_ACK8BGAsYHg/s0/2020-08-20.png" group-title="PERU", Vision TV

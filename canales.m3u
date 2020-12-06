@@ -15,20 +15,11 @@ https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="109767" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg" group-title="PERU", Karibeña TV
 https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="80324" tvg-name="TV Peru Noticias" tvg-logo="https://lh3.googleusercontent.com/-KD-fsTkMuGk/XoKOALALblI/AAAAAAAAxWc/5phOwY1GlmwfZ4jq32uVem2PZRDigWSCACK8BGAsYHg/s0/2020-03-30.png" group-title="PERU", TV Peru Noticias
-https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="PERU",Tv Peru
 https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" ggroup-title="PERU" tvg-name="TV Perú",TV Perú
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-
 #EXTINF:-1 tvg-logo="http://logowow.net/logos/thumb-fDocFft2r.png" group-title="PERU",Canal RPP
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="PERU" tvg-name="TV Perú Noticias",TV Perú Noticias
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #EXTINF:-1 group-title="PERU",WILLAX TV PERU
 http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
@@ -42,22 +33,14 @@ http://m.mediastream.pe/vv_willax/livestream/.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 group-title="PERU",PERU:Willax
 http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 group-title="PERU",TV PERu (Lima – Peru) (Game Snake Land S. y L.)
+#EXTINF:-1 group-title="PERU",IPE TV
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-
-#EXTINF:-1 group-title="PERU",TV PERu (Lima – Peru) (Game Snake Land S. y L.)
-https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-
-
 
 #EXTINF:-1 tvg-id="109808" tvg-name="Vision TV" tvg-logo="https://lh3.googleusercontent.com/-qSajgX0bucY/Xz8opUTK86I/AAAAAAAA4ts/S5qSak8GG0gGqZSx3hC5cRPMH7RV_KW_ACK8BGAsYHg/s0/2020-08-20.png" group-title="PERU", Vision TV
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PERU", CANAL BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PERU", Chicos IPE
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VFCEPgF.png" group-title="PERU", Monterrico TV
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8 
@@ -170,27 +153,11 @@ http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/500px-Sol_tv_pe.png" group-title="PERU",Sol TV
 http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="PERU",PERU:Antares TV
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU",PERU:Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="PERU",TV Peru
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0003&mode=12
-
-
-
-
 
 #EXTINF:-1 group-title="PERU",PERU:BHtv (Opt-1)
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8

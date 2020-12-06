@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="PERU", ATV +
-https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA3MzAwMTM4LCJzZXNzaW9uIjoiMjAwLjYwLjQzLjEyMiIsIndoaXRlbGlzdCI6WyIyMDAuNjAuNDMuMTIyIl19LCJzaWduYXR1cmUiOiI0NzMyY2I1YWNmNTQxYTdiZTBiMWFjNDBmNmQzMWVmYmQ5MjJiMGU1In0=
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Panamericana_TV_2014.svg/revision/latest/scale-to-width-down/340?cb=20200204001832&path-prefix=es" group-title="PERU", PANAM TV
 https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFhRucEFpEFFUFdg702IAFbw)/dm/3/x774s7s/s/live-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="PERU", ATV +
+https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA3MzAwMTM4LCJzZXNzaW9uIjoiMjAwLjYwLjQzLjEyMiIsIndoaXRlbGlzdCI6WyIyMDAuNjAuNDMuMTIyIl19LCJzaWduYXR1cmUiOiI0NzMyY2I1YWNmNTQxYTdiZTBiMWFjNDBmNmQzMWVmYmQ5MjJiMGU1In0=
 
 #EXTINF:-1 tvg-id="109777" tvg-name="Congreso TV" tvg-logo="https://lh3.googleusercontent.com/-MOUN7g4WMNQ/Xzx4K32zzKI/AAAAAAAA4q0/IKqe7WSGkJE2fFl_EOc6DEcEWLXrhzAswCK8BGAsYHg/s0/2020-08-18.png" group-title="PERU", Congreso TV
 http://stream.congreso.gob.pe/_hls/playlist.m3u8?PlaylistM3UCL

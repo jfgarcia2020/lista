@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="PERU",Latina
+https://live-normal-movistar-hls.latina.pe/egress/bhandler/cialatina/live/chunklist_b950272.m3u8?nva=1614994766&ttl=432000&ip=200.121.230.121&hash=06c1b77d584f674578f00
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Panamericana_TV_2014.svg/revision/latest/scale-to-width-down/340?cb=20200204001832&path-prefix=es" group-title="PERU", PANAM TV
 https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFhRucEFpEFFUFdg702IAFbw)/dm/3/x774s7s/s/live-2.m3u8
 
@@ -6306,6 +6309,11 @@ http://185.93.3.76:25461/live/149219444491279/227419925419977/414.m3u8?token=SEE
 #EXTINF:-1 group-title="DEPORTES",EUROSPORT 2 (SD)
 http://185.93.3.76:25461/live/149219444491279/227419925419977/459.m3u8?token=SEELUUAOGgMSBggEBAtWWlJTVVACAQcFA1pXVgNXAlFVB1YEAwMACQkSHUcVRxQGVwloDwAVW1JeVE4WR0UEQWwKBxIJRAAKCAQER0oREgpbARVcVBtDEQ8GQA4QAVgDBlJBHBEDQE1VQl8ECmwCBkANVANGDQ8UCg5OFl1YPldWDgJeV0QCGwESHUcPQBZBDApCCggbQwMPFhBVRlNDCRFSVAQGRBQbU19ECxJBH0EMRnI1RhtDBB4WB1pBXw5dEVlBXQATABscElgWOUEDEEIWUgcJUhNDXEBSFh4UDFJLPABfXQhdWkRZXgsVEVxBB0YbRAlYDwgSDRBrQl8FEQlBUgYDUA0bTQ==
 
+#EXTINF:-1 group-title="DEPORTES",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="DEPORTES",Bolivia deportes
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="50 Star Trek" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latin", 50 Star Trek
@@ -6488,3 +6496,14 @@ https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj
 
 #EXTINF:-1 group-title="PELICULAS",LA NOVIA DE CHUCKY
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+
+
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/438/860/png-transparent-logo-television-channel-paraguay-latele-paraguay-television-text-rectangle.png" group-title="PARAGUAY",LA TELE
+https://rds3.desdeparaguay.net/latele/latele_int_med/chunklist_w1354252744.m3u8?k=1adb402e76e0f216a924a35289da4169b4d882f687e586cb769ad5918ecf8684&exp=1607214855
+
+#EXTINF:-1 group-title="CULTURA",TRAVEL HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="CHILE",VIÑA DEL MAR
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8

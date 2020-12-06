@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Panamericana_TV_2014.svg/revision/latest/scale-to-width-down/340?cb=20200204001832&path-prefix=es" group-title="PERU", PANAM TV
 https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFhRucEFpEFFUFdg702IAFbw)/dm/3/x774s7s/s/live-2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="PERU", A T V
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="PERU", ATV
 https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA3MzAwNTI0LCJzZXNzaW9uIjoiMjAwLjYwLjQzLjEyMiIsIndoaXRlbGlzdCI6WyIyMDAuNjAuNDMuMTIyIl19LCJzaWduYXR1cmUiOiI4ZDQ2ZDZlYjMyYTU1OGQ5MTUxZDg3OGZiNjhkZGU2NWEyNjVhNzNkIn0%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="PERU", ATV +

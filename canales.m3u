@@ -24,22 +24,19 @@ https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/IPe_2019.svg/revision/latest/scale-to-width-down/340?cb=20200107225833&path-prefix=es" group-title="PERU",IPE TV  
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-
-
 #EXTINF:-1 tvg-id="109808" tvg-name="Vision TV" tvg-logo="https://lh3.googleusercontent.com/-qSajgX0bucY/Xz8opUTK86I/AAAAAAAA4ts/S5qSak8GG0gGqZSx3hC5cRPMH7RV_KW_ACK8BGAsYHg/s0/2020-08-20.png" group-title="PERU", Vision TV
-https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+https://panel.livetvvideo.net:1936/8312/8312/chunklist_w1498604476.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PERU", CANAL BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VFCEPgF.png" group-title="PERU", Monterrico TV
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eqpww5i.png" group-title="PERU", Turbo Mix Radio TV | SD
-http://167.114.116.212:1935/tvmb/turbomix/master.m3u8 
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="116522" tvg-name="Turbo Mix TV" tvg-logo="https://lh3.googleusercontent.com/-RYZMVEsgvkw/X8bgqPkmUHI/AAAAAAAA73Q/AjqyLcVP4L0Lvuo8UOJGP7DpTOUeBIm0gCK8BGAsYHg/s0/2020-12-01.jpg" group-title="PERU", Turbo Mix TV
 http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8?PlaylistM3UCL
+
+
 
 #EXTINF:-1 tvg-id="116088" tvg-name="Cine Club" tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png", Cine Club
 https://stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL

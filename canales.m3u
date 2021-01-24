@@ -9,6 +9,9 @@ https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="PERU", ATV +
 https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExNTM1NzQwLCJzZXNzaW9uIjoiMTkwLjExMy4yMTEuMTI3Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMjExLjEyNyJdfSwic2lnbmF0dXJlIjoiODU2OWFjMTg0MDcxYjkxYWVlZjUwOTg3Zjk2MjE4ZWZlNzBkNzg1OCJ9
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="PERU",Tv Peru
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+
 #EXTINF:-1 tvg-id="109777" tvg-name="Congreso TV" tvg-logo="https://lh3.googleusercontent.com/-MOUN7g4WMNQ/Xzx4K32zzKI/AAAAAAAA4q0/IKqe7WSGkJE2fFl_EOc6DEcEWLXrhzAswCK8BGAsYHg/s0/2020-08-18.png" group-title="PERU", Congreso TV
 http://stream.congreso.gob.pe/_hls/playlist.m3u8?PlaylistM3UCL
 
@@ -17,9 +20,6 @@ https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="109767" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg" group-title="PERU", Karibeña TV
 https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="PERU",Tv Peru
-https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1 tvg-logo="http://logowow.net/logos/thumb-fDocFft2r.png" group-title="PERU",Canal RPP
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8?iptvgratis?chile.m3u8

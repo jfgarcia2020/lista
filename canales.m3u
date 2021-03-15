@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Panamericana" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Panamericana_TV_2014.svg/revision/latest/scale-to-width-down/340?cb=20200204001832&path-prefix=es" group-title="PERU", PANAM TV
-https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFvwKAg-uTpFaDqNx3DqI2FY)/dm/3/x774s7s/s/live-2.m3u8
+https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFq-E9ByuLndnC7gSOJYi46c)/dm/3/x774s7s/s/live-0.m3u8
 
 #EXTINF:-1 tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="PERU", ATV
 https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0ODg3MDU3LCJzZXNzaW9uIjoiMTkwLjIzNi4yNDYuMTM3Iiwid2hpdGVsaXN0IjpbIjIwMDE6MTM4ODoyZjA4OmQ0Y2U6OThjODo3YjBjOjk2OWY6NWNkMSJdfSwic2lnbmF0dXJlIjoiYmM0NDg5OGE3MTJhMmI1ZjVhM2ZjMTA0MDhlMmExM2MyMjc2YzY5NCJ9
